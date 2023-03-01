@@ -1,3 +1,7 @@
 Misgana
 Samuel
-Nahum 
+Nahum
+Pipo
+Sara
+Lydiya
+
