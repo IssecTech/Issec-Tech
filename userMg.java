@@ -1,5 +1,5 @@
 Misgana
-Samuel
+Papi
 Nahum
 Pipo
 Sara
