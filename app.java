@@ -1,5 +1,5 @@
-This is Grate understanding
- java application.
+we manage 
+java apps 
 .net application
 NodeJS applications 
 pyton application 
